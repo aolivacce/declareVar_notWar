@@ -1,0 +1,1 @@
+# declareVar_notWar
